@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vishal sharma
-- 👀 working as mean stack developer
+- 👀 working as MEAN stack developer.
 
 <!---
 vishalims095/vishalims095 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
