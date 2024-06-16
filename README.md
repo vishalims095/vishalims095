@@ -39,4 +39,6 @@
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
-<a href="https://redis.io" target="_blank"> <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" alt="redis" width="40" height="40"/> </a> </p>
+<a href="https://redis.io" target="_blank"> <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" alt="redis" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank"> <img src="https://www.brcline.com/wp-content/uploads/2020/05/serverless-framework-logo.png" alt="serverless" width="40" height="40"/> </a> </p>
+</p>
