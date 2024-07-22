@@ -42,3 +42,13 @@
 <a href="https://redis.io" target="_blank"> <img src="https://e7.pngegg.com/pngimages/875/440/png-clipart-logo-google-cloud-platform-cloud-computing-font-cloud-computing-text-cloud.png" alt="redis" width="40" height="40"/> </a> 
 <a href="https://redis.io" target="_blank"> <img src="https://www.brcline.com/wp-content/uploads/2020/05/serverless-framework-logo.png" alt="serverless" width="40" height="40"/> </a> </p>
 </p>
+
+
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalims095&show_icons=true&locale=en&layout=compact" alt="vishalims095" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalims095&show_icons=true&locale=en" alt="vishalims095" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalims095&" alt="vishalims095" /></p>
+
