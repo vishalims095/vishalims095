@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vishal sharma</h1>
-<h3 align="center">Working as a MEAN stack developer having 5+ years of experience</h3>
+<h3 align="center">Working as a MEAN stack developer having 6+ years of experience</h3>
 
 - 🌱 I’m currently learning **React,Docker,Kubernetes,Redis**
 
