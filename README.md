@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **NodeJs,MySql,Mongo,Oracle,Angular,AWS,Heroku,Serverless,Pyment Gateway(stripe,telr,paytm)**
 
-- 📫 How to reach me **vishallsharma07@gmail.com/http://vishalsharma.live/**
+- 📫 How to reach me **vishallsharma07@gmail.com/https://vishalims095.github.io/vishalsharma.github.io/**
 
 - 📄 Know about my experiences https://www.linkedin.com/in/vishal-sharma-4330839a/detail/overlay-view/urn:li:fsd_profileTreasuryMedia:(ACoAABUC_qcB4F-ks0uKgDwZfqLRNaakc8YmcrE,1635472387917)
 
